@@ -44,7 +44,7 @@ class Program
         //<, >,  >=, <=, !=
 
         Console.WriteLine("İlişkisel operatorler");
-        int a=5,b=10;
+        int a=5,b=10; 
         Console.WriteLine("a="+a);
         Console.WriteLine("b="+b);
 
@@ -56,12 +56,7 @@ class Program
             Console.WriteLine(a+">"+b); 
         }
         
-
-        
-        
-
-
-
+    
     }
 }
  
